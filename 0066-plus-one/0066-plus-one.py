@@ -1,7 +1,8 @@
 class Solution:
     def plusOne(self, digits: list[int]) -> list[int]:
-        n=int("".join(map(str,digits)))
-        n+=1
-        new=list(map(int,str(n)))
-        return new
-        
+        num=0
+        for val in digits:
+            num=num*10+val
+        num+=1
+        newnum=list(map(int,str(num)))
+        return newnum
