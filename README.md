@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
