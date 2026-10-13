@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sorting
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
