@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0342-power-of-four) |
+| [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
