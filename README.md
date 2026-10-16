@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0389-find-the-difference](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -122,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
