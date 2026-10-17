@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
