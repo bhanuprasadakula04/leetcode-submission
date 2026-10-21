@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
