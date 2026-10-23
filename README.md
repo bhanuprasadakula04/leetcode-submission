@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1796-second-largest-digit-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1796-second-largest-digit-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
