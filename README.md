@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1588-sum-of-all-odd-length-subarrays) |
