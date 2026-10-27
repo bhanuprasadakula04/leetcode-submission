@@ -179,4 +179,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
