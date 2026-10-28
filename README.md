@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0438-find-all-anagrams-in-a-string) |
