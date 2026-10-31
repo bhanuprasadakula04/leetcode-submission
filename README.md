@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0066-plus-one) |
+| [0179-largest-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0018-4sum) |
+| [0179-largest-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0112-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
