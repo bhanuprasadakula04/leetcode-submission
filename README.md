@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0316-remove-duplicate-letters) |
+| [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
