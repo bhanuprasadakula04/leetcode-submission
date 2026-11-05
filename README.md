@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
+| [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
