@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
