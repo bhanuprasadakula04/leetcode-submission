@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0907-sum-of-subarray-minimums) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0907-sum-of-subarray-minimums) |
@@ -264,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
