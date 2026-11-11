@@ -6,7 +6,6 @@ class Solution:
         prefix=1
         suffix=1
         n=len(nums)
-        ans=[1]*n
         for i in range(n):
             arr1.append(prefix)
             prefix*=nums[i]
