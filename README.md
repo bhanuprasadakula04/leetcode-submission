@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0771-jewels-and-stones) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
