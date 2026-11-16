@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
