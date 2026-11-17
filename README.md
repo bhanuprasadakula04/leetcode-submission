@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0179-largest-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0189-rotate-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0678-valid-parenthesis-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0907-sum-of-subarray-minimums) |
