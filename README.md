@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
