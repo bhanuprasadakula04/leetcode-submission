@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0290-word-pattern) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0263-ugly-number) |
