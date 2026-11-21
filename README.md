@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
