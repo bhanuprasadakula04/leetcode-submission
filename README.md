@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
+| [0881-boats-to-save-people](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
+| [0881-boats-to-save-people](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0881-boats-to-save-people) |
 ## Simulation
 |  |
 | ------- |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
