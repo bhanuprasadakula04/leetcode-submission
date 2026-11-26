@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3360-stone-removal-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
