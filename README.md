@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0645-set-mismatch) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0316-remove-duplicate-letters) |
+| [0561-array-partition](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0881-boats-to-save-people) |
 ## Simulation
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0881-boats-to-save-people) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
