@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/bhanuprasadakula04/leetcode-submission/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
